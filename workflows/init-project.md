@@ -8,6 +8,8 @@ I need to set up a new Claude Code enhanced documentation site for the project: 
 
 ## Workflow Steps
 
+Always check first if already exists or not.
+
 ### 1. Claude Code Setup
 Use the deployment-engineer agent to:
 - Create a `.claude` directory in the project root if it doesn't exist
